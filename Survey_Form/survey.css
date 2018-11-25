@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+body {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    background-color: #7FDBFF;
+    font-size: 20px;
+    font-weight: bold;
+    min-width: 320px;
+}
+
+#survey-form {
+    padding:15px;
+    border:0px solid;
+    border-radius:5px;
+    background: #eee;
+    max-width: 75%;
+    height: auto;
+    margin: auto;
+}
+
+
+#radio1 {
+    list-style: none;
+    position: relative;
+    left: -55px;
+    top: -13px;
+    margin-left: 5px;
+    display: block;
+    padding-top: 0px;
+}
+.radio {
+    margin: 7px;
+}
+
+#dropdown {
+  height: 35px;
+  width: 140px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+  position: relative;
+  left: -10px;
+}
+
+.right-box {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+    padding: 10px;
+
+}
+
+
+.left-box {
+    display: inline-block;
+    text-align: right;
+    width: 35%;
+    padding: 5px;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.input-field {
+    width: auto;
+    height: 20px;
+    width: 280px;
+    padding: 5px;
+}
+
+@media screen and (max-width: 833px) {
+  .input-field {
+    width: 80%;
+  }
+  select {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .left-box {
+    width: 100%;
+    text-align: left;
+  }
+  .right-box {
+    width: 80%;
+    float: left;
+  }
+  .input-field {
+    width: 100%;
+  }
+  select {
+    width: 100%;
+  }
+}
+
+#submit {
+        background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
