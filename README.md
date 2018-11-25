@@ -8,11 +8,11 @@ The projects of the course "Responsive web design" from the [**freeCodeCamp**](h
 
 * [Survey Form](https://github.com/DaveFres/Responsive-web-design/tree/master/Survey_Form) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form). 
 
-* [Tribute Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Landing_Page) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page). 
+* [Product Landing Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Landing_Page) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page). 
 
-* [Tribute Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Tech_Documentation_Page) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page). 
+* [Technical Documentation Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Tech_Documentation_Page) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page). 
 
-* [Tribute Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Portfolio_Webpage) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page). 
+* [Personal Portfolio Webpage](https://github.com/DaveFres/Responsive-web-design/tree/master/Portfolio_Webpage) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage). 
 
 
 
