@@ -8,7 +8,7 @@ The projects of the course "Responsive web design" from the [**freeCodeCamp**](h
 
 * [Survey Form](https://github.com/DaveFres/Responsive-web-design/tree/master/Survey_Form) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-survey-form). You can also see what it looks like [**here**](https://codepen.io/davefres/full/LXzEyJ/).
 
-* [Product Landing Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Landing_Page) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page). You can also see what it looks like [**here**](https://codepen.io/davefres/pen/ZmqyyY).
+* [Product Landing Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Landing_Page) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page). You can also see what it looks like [**here**](https://codepen.io/davefres/full/ZmqyyY/).
 
 * [Technical Documentation Page](https://github.com/DaveFres/Responsive-web-design/tree/master/Tech_Documentation_Page) The task of this project can be found [**here**](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page). You can also see what it looks like [**here**](https://codepen.io/davefres/full/NEzdzr/).
 
