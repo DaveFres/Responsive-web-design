@@ -70,6 +70,7 @@ header {
     header {
         flex-wrap: wrap;
     }
+  
 }
 
 
@@ -151,9 +152,9 @@ nav {
     padding: 5px;
   }
 
-@media (max-width: 650px) {
+@media (max-width: 550px) {
     #head-box{
-        margin-top: 0px;
+        padding-top: 200px;
     }
 }
 
